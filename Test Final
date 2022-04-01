@@ -1,0 +1,20 @@
+## My Jupyter Notebook on IBM Watson Studio 
+__Didar Sarsenov__ 
+Research Analyst
+_I am interested in data science because my job requires me to know it_
+### Below should print 'Hello Coldplay'
+print("Hello Coldplay")
+[My favourite video](https://www.youtube.com/watch?v=-ZvsGmYKhcU)            
+
+
+###### The list of my favourite songs:
+  *  Viva La Vida
+  *  Hymn for weekend
+
+##### _Concerts statistics_
+
+| City | Tickets Sold | Months |
+| --- | --- | --- |
+| Boston | 1200 | July
+| New York | 2200 | September
+| London | 2000 | December
